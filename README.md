@@ -22,6 +22,7 @@
             padding: 0;">
     <li><strong>Проект 1:</strong> Анализ финансовых данных</li>
     <li><strong>Проект 2:</strong> Визуализация данных</li>
+    <li><strong>Проект 3:</strong> Создание и валидация баз данных</li>
 </ul>
 
  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Roumman&theme=solarized_dark)
