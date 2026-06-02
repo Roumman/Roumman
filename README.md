@@ -29,7 +29,6 @@
  
 <div class="contact">
     <h3>Контакты:</h3>
-    <p><strong>Email:</strong> <a href="rflukin@edu.hse.ru">rflukin@edu.hse.ru</a></p>
 </div>
 
 </body>
