@@ -20,7 +20,7 @@
 <h3>Проекты, над которыми работаю:</h3>
 <ul style="list-style-type: square;
             padding: 0;">
-    <li><strong>Проект 1:</strong> Анализ финансовых данных</li>
+    <li><strong>Проект 1:</strong> Анализ финансовых моделей</li>
     <li><strong>Проект 2:</strong> Визуализация данных</li>
     <li><strong>Проект 3:</strong> Создание и валидация баз данных</li>
 </ul>
